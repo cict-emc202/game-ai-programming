@@ -1,5 +1,4 @@
 # Game Dev Challenge #1 (AI Programming)
-==
 This challenge will test your logic and creativity skills by creating a stalking enemy logic using the Kodu Game Lab.
 
 ### Tasks
